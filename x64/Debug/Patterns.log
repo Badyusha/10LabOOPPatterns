@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\study\ООПиП\2course\Labs\Patterns\main.cpp(117): warning C4715: 'makePaperProductFabricMethod': not all control paths return a value
+  Patterns.vcxproj -> D:\study\ООПиП\2course\Labs\x64\Debug\Patterns.exe
